@@ -321,11 +321,10 @@ h3 {
   width: 330px;
   height: 325px;
   position: absolute;
-  right: 752px; 
-}
-
-.atwo:hover {
+  right: 620px; 
+  .atwo:hover {
     opacity: 0.0;
+  }
 }
 
 .ctwo {
@@ -346,17 +345,17 @@ h3 {
  }
 
 .athree {
-    background-color: blue;
+  background-color: blue;
   opacity: 0.3;
   float: left;
   width: 330px;
   height: 325px;
   position: absolute;
-  left: 668px; 
+  left: 660px; 
   }
 
 .athree:hover {
-    opacity: 0.0;
+  opacity: 0.0;
 }
 
 .cthree {
@@ -379,13 +378,13 @@ h3 {
 
 
 .afour {
-    background-color: blue;
+  background-color: blue;
   opacity: 0.3;
   float: left;
   width: 330px;
   height: 325px;
   position: absolute;
-  left: 998px; 
+  left:990px; 
 }
 
 .afour:hover {
