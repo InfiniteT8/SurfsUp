@@ -108,7 +108,7 @@ a.blogdate:link {
   color: #1f74b5; }
 
 .rcs {
-  background-color: #92a4b1;
+  background-color: #1D4562;
   color: white;
   text-decoration: none;
   margin-right: 0px;
@@ -119,6 +119,8 @@ a.blogdate:link {
 img.rcss {
   background-color: #4c555c;
   margin-top: 0px;
+  height: 15px;
+  width: 20px;
   margin-bottom: 0px;
   margin-left: 0px;
   margin-right: 0px;
@@ -192,6 +194,7 @@ a.aboutad:link {
   width: 1321px;
   height: 490px;
   margin: 100px auto 0px;
+  margin-left:50px;
   float: left;
   padding: 0;
   text-align: center;
@@ -259,7 +262,8 @@ h3 {
   width: 330px;
   height: 325px;
   position: absolute;
-  right: 620px; }
+  right: 712px; 
+  right:570px; }
 
 .atwo:hover {
   opacity: 0.0; }
@@ -268,7 +272,7 @@ h3 {
   width: 330px;
   height: 325px;
   position: absolute;
-  left: 338px;
+  left: 378px;
   text-align: left; }
 
 .cttwo {
@@ -286,7 +290,7 @@ h3 {
   width: 330px;
   height: 325px;
   position: absolute;
-  left: 660px; }
+  left: 710px; }
 
 .athree:hover {
   opacity: 0.0; }
@@ -295,7 +299,7 @@ h3 {
   width: 330px;
   height: 325px;
   position: absolute;
-  left: 668px;
+  left: 709px;
   text-align: left; }
 
 .ctthree {
@@ -314,7 +318,7 @@ h3 {
   width: 330px;
   height: 325px;
   position: absolute;
-  left: 990px; }
+  left: 1040px; }
 
 .afour:hover {
   opacity: 0.0; }
@@ -323,7 +327,7 @@ h3 {
   width: 330px;
   height: 325px;
   position: absolute;
-  left: 998px; }
+  left: 1039px; }
 
 .ctfour {
   color: white;
